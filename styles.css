@@ -53,3 +53,11 @@ h1{
 .main div p{
     margin: 20px;
 }
+.blog-post{
+    margin:10px;
+    background-color: white;
+    border-color: lightgray;
+    border-radius: 5px;
+    padding: 10px;
+    display: flex;
+}
